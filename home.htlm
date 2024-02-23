@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Learn English Online</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<nav class="nav-menu"> 
+  <label class="label">TalkEnglish</label>
+  <ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="courses.html">Courses</a></li>
+    <li><a href="about.html">About</a></li>
+    <li><a href="contact.html">Contact</a></li>
+    <li><a href="login.html">Login</a></li>
+  </ul>
+</nav>
+<section class="main-content">
+  <h1>Get started in English jorney</h1>
+  <p>Every language courses require commitment, willingness, time, hard work in your studies</p>
+  <div class="btn-container">  
+    <button class="btn">Elementary course</button>
+    <button class="btn">Intermediate course</button>
+    <button class="btn">Advanced course</button>
+  </div>
+</section>
+<footer id="roda">
+  <p>Tec solutions, All rights reserved</p>
+</footer>
+  <script src="script.js"></script>
+</body>
+
+</html>
